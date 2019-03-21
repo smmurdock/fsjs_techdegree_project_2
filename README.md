@@ -1,4 +1,4 @@
-# fsjs_techdegree_project_2
+# Full Stack JavaScript Tech Degree - Project 2
 Unit 2 Project - List Pagination and Filtering 
 
 In this project, you'll enhance the usability of a web page that is displaying way too much information all at once. Long lists don't make for a good user experience on a web page. To make it easier for the user to find information and read the page, you'll add to this project a popular web development technique known as "pagination".
